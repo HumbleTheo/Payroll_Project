@@ -32,14 +32,22 @@
 	box-sizing: border-box;
 }
 
-#log_in p{
+#log_in p {
 	color: #e3e9c2;
 	font-size: 24px;
 	font-weight: 700;
 }
 
-#log_in h1{
-	color: #ee964b;
+#log_in .box2 .form1 .company {
+	display: flex;
+	width: 100%;
+}
+
+#log_in h1 {
+	color: red;
+	margin: 0;
+	width: 100%;
+	text-align: center;
 }
 
 #log_in input[type="email"],
